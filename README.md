@@ -23,14 +23,14 @@ MOVIE-RECOMMENDER/
 - requirements.txt
 
 ##  Run the Project
-# Create virtual environment
+###  Create virtual environment
 python -m venv venv
-# Activate it (Windows)
+###  Activate it (Windows)
 venv\Scripts\activate
-# Install the libraries
+###  Install the libraries
 pip install pandas numpy scikit-learn streamlit
 
-# Run the Project
+###  Run the Project
 streamlit run app.py
 
 
